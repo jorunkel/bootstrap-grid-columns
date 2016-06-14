@@ -8,6 +8,7 @@ This plugin handles the case where you have a `<div class="row">...</div>` conta
 ## Features
 
 * Easy to use (just add the class `grid-columns` to your row)
+* Detects column wrapping and sizes each individueal row
 * Fully responsive
 * Handles mixed column widths
 
@@ -26,3 +27,7 @@ This plugin handles the case where you have a `<div class="row">...</div>` conta
 ## Demo Page
 
 See [demo.html](http://htmlpreview.github.io/?https://github.com/jorunkel/bootstrap-grid-columns/blob/master/demo.html).
+
+## Requirements
+
+jQuery and Bootstrap 3.
