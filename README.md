@@ -13,6 +13,10 @@ This plugin handles the case where you have a `<div class="row">...</div>` conta
 
 ## How to Use
 
+1. Add `bootstrap-grid-columns.js` to your page
+
+2. Add the class `grid-columns` to your rows:
+
 ```html
 <div class="row grid-columns">
 	<!-- define your rows here -->
