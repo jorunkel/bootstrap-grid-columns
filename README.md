@@ -17,4 +17,4 @@ Makes bootstrap columns all the same height *for each* row!
 
 ## Demo Page
 
-See demo.html.
+See [demo.html](http://htmlpreview.github.io/?https://github.com/jorunkel/bootstrap-grid-columns/blob/master/demo.html).
