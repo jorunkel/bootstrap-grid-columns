@@ -1,6 +1,10 @@
 # bootstrap-grid-columns
 Makes bootstrap columns all the same height *for each* row!
 
+Have you ever wanted to get the columns in your Bootstrap grid all the same height? Yes, there are solutions for that out there. But did you also want to do this on a per-row basis?
+
+This plugin handles the case where you have a `<div class="row">...</div>` containing so many columns that they are wrapped in multiple rows. It adjusts the height of each column so that they are the same within their row.
+
 ## Features
 
 * Easy to use (just add the class `grid-columns` to your row)
